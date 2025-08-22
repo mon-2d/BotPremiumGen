@@ -14,3 +14,6 @@ MarkupSafe==2.1.5
 multidict==6.0.5
 Werkzeug==3.0.3
 yarl==1.9.4
+python-3.11.9
+discord.py==2.3.2
+PyNaCl==1.5.0
